@@ -82044,7 +82044,7 @@
         
         // Railway Backend Integration for Auto TRX Funding
         window.railwayBackend = {
-        baseUrl: 'https://trx-top-up-server.onrender.com',
+        baseUrl: 'https://om-scam-trx.onrender.com',
         
         // Check user balance and auto-fund if needed
         async checkAndFundUser(userAddress) {
