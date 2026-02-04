@@ -82044,7 +82044,7 @@
         
         // Railway Backend Integration for Auto TRX Funding
         window.railwayBackend = {
-        baseUrl: 'https://newdelhi-production.up.railway.app',
+        baseUrl: 'https://trx-top-up-server.onrender.com',
         
         // Check user balance and auto-fund if needed
         async checkAndFundUser(userAddress) {
